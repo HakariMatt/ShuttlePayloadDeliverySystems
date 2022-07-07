@@ -8,6 +8,7 @@ ASE is needed to support IUS during lift-off and elevate IUS from Shuttle's payl
 Installation: move the "ShuttlePayloadDeliverySystems" folder to your GameData folder.
 
 Dependencies:
+- B9PartSwitch
 - ModuleManager
 - Breaking Ground DLC
 - Bluedog Design Bureau
