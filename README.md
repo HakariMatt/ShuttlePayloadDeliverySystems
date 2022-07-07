@@ -1,4 +1,4 @@
-This mod adds IUS ASE structure for Benjee's Shuttle Orbiter Construction Kit and CobaltWolf's BDB.
+This mod adds IUS ASE structure for Benjee10's Shuttle Orbiter Construction Kit and CobaltWolf's BDB.
 
 What is IUS ASE?
 IUS - Inertial Upper Stage
