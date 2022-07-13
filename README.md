@@ -1,9 +1,4 @@
-This mod adds IUS ASE structure for Benjee10's Shuttle Orbiter Construction Kit and CobaltWolf's BDB.
-
-What is IUS ASE? 
-IUS - Inertial Upper Stage. 
-ASE - Airborne Support Equipment. 
-ASE is needed to support IUS during lift-off and elevate IUS from Shuttle's payload bay for deployment. 
+If you like delivering payloads into orbit with the Space Shuttle, then this mod is for you!
 
 Installation: move the "ShuttlePayloadDeliverySystems" folder to your GameData folder.
 
